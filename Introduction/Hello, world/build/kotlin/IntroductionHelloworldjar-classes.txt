@@ -1,0 +1,1 @@
+/Users/ho0on/IdeaProjects/Kotlin Koans/Introduction/Hello, world/build/classes/java/main/TaskKt.class
